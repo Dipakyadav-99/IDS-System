@@ -50,8 +50,8 @@ dashboard:
   active: true
   host: "localhost"
   port: 9080
-  username: "Saurabh"
-  password: "Saurabh@123"
+  username: "1"
+  password: "2"
   endpoint: "/events"
   
 metrics:
@@ -82,7 +82,7 @@ alert:
 
 notifications:
   telegram:
-    token: "6164025605:AAEzgeHg4g81J9dXlsEHESwPcrxicApXGcA"
-    chat_id: "-947207349"
+    token: "_"
+    chat_id: "-_"
 
   
